@@ -23,7 +23,7 @@ All events (disconnects, reconnect attempts, reboots) are logged to `/var/log/wi
 ## Installation
 
 ```bash
-git clone https://github.com/khagele/wifi-reconnect.git
+git clone https://github.com/khagele/RPI-wifi-reconnect-or-reboot.git
 cd wifi-reconnect
 chmod +x install.sh
 ./install.sh
